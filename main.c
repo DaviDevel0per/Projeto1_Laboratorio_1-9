@@ -15,7 +15,7 @@ int main()
     
     scanf("%d", &a); // dnv fodase
 
-    printf("mudanca matheus");
+    
 
       
 
