@@ -14,8 +14,10 @@ int main()
     printf("tomar no cu\n");
 
     printf("bosta líquida135");
-
+    
     scanf("%d", &a); // dnv fodase
+
+    printf("linha depois da 18");
 
     // comentario teste fodase
 
