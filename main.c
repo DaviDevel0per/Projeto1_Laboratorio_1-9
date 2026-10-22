@@ -8,9 +8,13 @@ int main()
 
     scanf("%d", &a);
 
-    printf("%d, a);
+    printf("%d", a);
 
 
+
+    printf("mudanca matheus");
+
+        
 
     return 0;
 }
