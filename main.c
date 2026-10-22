@@ -17,5 +17,7 @@ int main()
 
     scanf("%d", &a); // dnv fodase
 
+    // comentario teste fodase
+
     return 0;
 }
