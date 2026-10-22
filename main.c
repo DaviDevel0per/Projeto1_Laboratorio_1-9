@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+void FuncaoTeste()
+{
+    printf("Merda");
+}
+
 int main()
 {
     printf("hello world!\n");
